@@ -1,5 +1,5 @@
-# Data
+# Data and reproducibility
 
-This project uses real operational business data accessed through the SAS repository and SAS Visual Analytics environment.
+Supplier and product names appear in the supplied SAS dashboard. Earlier claims of real operational data are unverified; source provenance and licensing are not documented.
 
-The data was used to analyze supplier activity, product distribution, regional inventory trends, and facility-level reporting through interactive dashboard development.
+No source tables, date coverage or editable report are included. Quantity does not establish stock on hand, sales, supplier performance or facility-level efficiency without a data definition. The region selections and cross-filter behavior have not been tested. Visual ranks are observations from one exported view.
